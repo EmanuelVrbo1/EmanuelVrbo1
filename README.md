@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @EmanuelVrbo1
+- 👀 I’m interested in C++, Java
+- 🌱 I’m currently learning C, Lua, Golang, Python
+- 📫 How to reach me: Instagram
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: My cod is awful...
